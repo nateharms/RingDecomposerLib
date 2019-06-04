@@ -1,0 +1,3272 @@
+Start testing: Jun 04 09:07 EDT
+----------------------------------------------------------
+1/53 Testing: test_molecule_00_0
+1/53 Test: test_molecule_00_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_00_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_00_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_00_0" end time: Jun 04 09:07 EDT
+"test_molecule_00_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/53 Testing: test_molecule_01_0
+2/53 Test: test_molecule_01_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_01_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_01_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   1.03 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_01_0" end time: Jun 04 09:07 EDT
+"test_molecule_01_0" time elapsed: 00:00:01
+----------------------------------------------------------
+
+3/53 Testing: test_molecule_02_0
+3/53 Test: test_molecule_02_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_02_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_02_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: invalid edge 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_02_0" end time: Jun 04 09:07 EDT
+"test_molecule_02_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/53 Testing: test_molecule_03_0
+4/53 Test: test_molecule_03_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_03_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_03_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_03_0" end time: Jun 04 09:07 EDT
+"test_molecule_03_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/53 Testing: test_molecule_04_0
+5/53 Test: test_molecule_04_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_04_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_04_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_04_0" end time: Jun 04 09:07 EDT
+"test_molecule_04_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/53 Testing: test_molecule_05_0
+6/53 Test: test_molecule_05_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_05_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_05_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_05_0" end time: Jun 04 09:07 EDT
+"test_molecule_05_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/53 Testing: test_molecule_06_0
+7/53 Test: test_molecule_06_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_06_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_06_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_06_0" end time: Jun 04 09:07 EDT
+"test_molecule_06_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/53 Testing: test_molecule_07_0
+8/53 Test: test_molecule_07_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_07_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_07_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_07_0" end time: Jun 04 09:07 EDT
+"test_molecule_07_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/53 Testing: test_molecule_08_0
+9/53 Test: test_molecule_08_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_08_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_08_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_08_0" end time: Jun 04 09:07 EDT
+"test_molecule_08_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/53 Testing: test_molecule_09_0
+10/53 Test: test_molecule_09_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_09_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_09_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_09_0" end time: Jun 04 09:07 EDT
+"test_molecule_09_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/53 Testing: test_molecule_10_0
+11/53 Test: test_molecule_10_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_10_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_10_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_10_0" end time: Jun 04 09:07 EDT
+"test_molecule_10_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/53 Testing: test_molecule_11_0
+12/53 Test: test_molecule_11_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_11_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_11_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_11_0" end time: Jun 04 09:07 EDT
+"test_molecule_11_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/53 Testing: test_molecule_12_0
+13/53 Test: test_molecule_12_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_12_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_12_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_12_0" end time: Jun 04 09:07 EDT
+"test_molecule_12_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/53 Testing: test_molecule_13_0
+14/53 Test: test_molecule_13_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_13_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_13_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_13_0" end time: Jun 04 09:07 EDT
+"test_molecule_13_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/53 Testing: test_molecule_14_0
+15/53 Test: test_molecule_14_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_14_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_14_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_14_0" end time: Jun 04 09:07 EDT
+"test_molecule_14_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/53 Testing: test_molecule_15_0
+16/53 Test: test_molecule_15_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_15_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_15_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_15_0" end time: Jun 04 09:07 EDT
+"test_molecule_15_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/53 Testing: test_molecule_16_0
+17/53 Test: test_molecule_16_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_16_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_16_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_16_0" end time: Jun 04 09:07 EDT
+"test_molecule_16_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/53 Testing: test_molecule_17_0
+18/53 Test: test_molecule_17_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_17_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_17_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_17_0" end time: Jun 04 09:07 EDT
+"test_molecule_17_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/53 Testing: test_molecule_18_0
+19/53 Test: test_molecule_18_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_18_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_18_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_18_0" end time: Jun 04 09:07 EDT
+"test_molecule_18_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/53 Testing: test_molecule_19_0
+20/53 Test: test_molecule_19_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_19_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_19_0" start time: Jun 04 09:07 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =  32.73 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_19_0" end time: Jun 04 09:08 EDT
+"test_molecule_19_0" time elapsed: 00:00:32
+----------------------------------------------------------
+
+21/53 Testing: test_molecule_20_0
+21/53 Test: test_molecule_20_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_20_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_20_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   3.54 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_20_0" end time: Jun 04 09:08 EDT
+"test_molecule_20_0" time elapsed: 00:00:03
+----------------------------------------------------------
+
+22/53 Testing: test_molecule_21_0
+22/53 Test: test_molecule_21_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_21_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_21_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_21_0" end time: Jun 04 09:08 EDT
+"test_molecule_21_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/53 Testing: test_molecule_22_0
+23/53 Test: test_molecule_22_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_22_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_22_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_22_0" end time: Jun 04 09:08 EDT
+"test_molecule_22_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/53 Testing: test_molecule_23_0
+24/53 Test: test_molecule_23_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_23_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_23_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_23_0" end time: Jun 04 09:08 EDT
+"test_molecule_23_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/53 Testing: test_molecule_24_0
+25/53 Test: test_molecule_24_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_24_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_24_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_24_0" end time: Jun 04 09:08 EDT
+"test_molecule_24_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/53 Testing: test_molecule_25_0
+26/53 Test: test_molecule_25_0
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/Test/Test_static" "validate" "/Users/nathan/Code/RingDecomposerLib/test/molecule_25_0.dimacs" "200"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_molecule_25_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+   RDL_DEBUG: The following errors are expected {
+   RDL_ERROR: The graph is NULL.
+   RDL_ERROR: The graph has no nodes.
+   RDL_ERROR: Tried to add an edge with atoms not in range.
+   RDL_ERROR: edge (1,2) can not be added to graph with 2 atoms.
+ RDL_WARNING: Adding a loop is not allowed, node 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 1
+   RDL_ERROR: invalid edge 1 2147483647
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: Cannot advance iterator at end!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Iterator is NULL!
+   RDL_ERROR: Cannot retrieve cycle of iterator at end!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid index: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid node: 2147483647
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: invalid edge: 0 0
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge: 1 1
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: idx 2147483647 is out of range!
+   RDL_ERROR: RDL_data is NULL!
+   RDL_ERROR: invalid edge 2147483647 2147483648
+   RDL_ERROR: RDL_data is NULL!
+   RDL_DEBUG: } end expected errors
+Handling of invalid values successful!
+URF results successful!
+RCF results successful!
+RCP results successful!
+Ringsystem results successful!
+URF validation successful!
+MCB validation successful!
+consistency validation successful!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_molecule_25_0" end time: Jun 04 09:08 EDT
+"test_molecule_25_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/53 Testing: test_minimal_static
+27/53 Test: test_minimal_static
+Command: "/Users/nathan/Code/RingDecomposerLib/build/src/MinimalExample/MinimalExample_static"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"test_minimal_static" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+URFs: 3
+ RCs: 6
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_minimal_static" end time: Jun 04 09:08 EDT
+"test_minimal_static" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/53 Testing: python_test_molecule_00_0
+28/53 Test: python_test_molecule_00_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_00_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_00_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.007s
+
+OK
+molecule_00_0_dimacs
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_00_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_00_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/53 Testing: python_test_molecule_01_0
+29/53 Test: python_test_molecule_01_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_01_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_01_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.089s
+
+OK
+molecule_01_0_dimacs
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_01_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_01_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/53 Testing: python_test_molecule_02_0
+30/53 Test: python_test_molecule_02_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_02_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_02_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.001s
+
+OK
+molecule_02_0_dimacs
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_02_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_02_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/53 Testing: python_test_molecule_03_0
+31/53 Test: python_test_molecule_03_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_03_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_03_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.004s
+
+OK
+molecule_03_0_dimacs
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_03_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_03_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/53 Testing: python_test_molecule_04_0
+32/53 Test: python_test_molecule_04_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_04_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_04_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.005s
+
+OK
+molecule_04_0_dimacs
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_04_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_04_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/53 Testing: python_test_molecule_05_0
+33/53 Test: python_test_molecule_05_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_05_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_05_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.003s
+
+OK
+molecule_05_0_dimacs
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_05_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_05_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/53 Testing: python_test_molecule_06_0
+34/53 Test: python_test_molecule_06_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_06_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_06_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.007s
+
+OK
+molecule_06_0_dimacs
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_06_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_06_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/53 Testing: python_test_molecule_07_0
+35/53 Test: python_test_molecule_07_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_07_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_07_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.021s
+
+OK
+molecule_07_0_dimacs
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_07_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_07_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/53 Testing: python_test_molecule_08_0
+36/53 Test: python_test_molecule_08_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_08_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_08_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.010s
+
+OK
+molecule_08_0_dimacs
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_08_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_08_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/53 Testing: python_test_molecule_09_0
+37/53 Test: python_test_molecule_09_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_09_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_09_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.011s
+
+OK
+molecule_09_0_dimacs
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_09_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_09_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/53 Testing: python_test_molecule_10_0
+38/53 Test: python_test_molecule_10_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_10_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_10_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.024s
+
+OK
+molecule_10_0_dimacs
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_10_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_10_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/53 Testing: python_test_molecule_11_0
+39/53 Test: python_test_molecule_11_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_11_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_11_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.011s
+
+OK
+molecule_11_0_dimacs
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_11_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_11_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/53 Testing: python_test_molecule_12_0
+40/53 Test: python_test_molecule_12_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_12_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_12_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.007s
+
+OK
+molecule_12_0_dimacs
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_12_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_12_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/53 Testing: python_test_molecule_13_0
+41/53 Test: python_test_molecule_13_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_13_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_13_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.009s
+
+OK
+molecule_13_0_dimacs
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_13_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_13_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/53 Testing: python_test_molecule_14_0
+42/53 Test: python_test_molecule_14_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_14_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_14_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.007s
+
+OK
+molecule_14_0_dimacs
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_14_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_14_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/53 Testing: python_test_molecule_15_0
+43/53 Test: python_test_molecule_15_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_15_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_15_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.011s
+
+OK
+molecule_15_0_dimacs
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_15_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_15_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/53 Testing: python_test_molecule_16_0
+44/53 Test: python_test_molecule_16_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_16_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_16_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.005s
+
+OK
+molecule_16_0_dimacs
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_16_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_16_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/53 Testing: python_test_molecule_17_0
+45/53 Test: python_test_molecule_17_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_17_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_17_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.005s
+
+OK
+molecule_17_0_dimacs
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_17_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_17_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/53 Testing: python_test_molecule_18_0
+46/53 Test: python_test_molecule_18_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_18_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_18_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.013s
+
+OK
+molecule_18_0_dimacs
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_18_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_18_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/53 Testing: python_test_molecule_19_0
+47/53 Test: python_test_molecule_19_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_19_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_19_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.060s
+
+OK
+molecule_19_0_dimacs
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_19_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_19_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/53 Testing: python_test_molecule_20_0
+48/53 Test: python_test_molecule_20_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_20_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_20_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.323s
+
+OK
+molecule_20_0_dimacs
+<end of output>
+Test time =   7.42 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_20_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_20_0" time elapsed: 00:00:07
+----------------------------------------------------------
+
+49/53 Testing: python_test_molecule_21_0
+49/53 Test: python_test_molecule_21_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_21_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_21_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.005s
+
+OK
+molecule_21_0_dimacs
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_21_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_21_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/53 Testing: python_test_molecule_22_0
+50/53 Test: python_test_molecule_22_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_22_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_22_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.019s
+
+OK
+molecule_22_0_dimacs
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_22_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_22_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/53 Testing: python_test_molecule_23_0
+51/53 Test: python_test_molecule_23_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_23_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_23_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.008s
+
+OK
+molecule_23_0_dimacs
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_23_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_23_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/53 Testing: python_test_molecule_24_0
+52/53 Test: python_test_molecule_24_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_24_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_24_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.010s
+
+OK
+molecule_24_0_dimacs
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_24_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_24_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/53 Testing: python_test_molecule_25_0
+53/53 Test: python_test_molecule_25_0
+Command: "/Users/nathan/anaconda/bin/python" "/Users/nathan/Code/RingDecomposerLib/src/python/test/test.py" "--input" "/Users/nathan/Code/RingDecomposerLib/test/molecule_25_0.dimacs"
+Directory: /Users/nathan/Code/RingDecomposerLib/test
+"python_test_molecule_25_0" start time: Jun 04 09:08 EDT
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.004s
+
+OK
+molecule_25_0_dimacs
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"python_test_molecule_25_0" end time: Jun 04 09:08 EDT
+"python_test_molecule_25_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 04 09:08 EDT

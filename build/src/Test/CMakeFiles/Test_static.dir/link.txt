@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Test_static.dir/Test.c.o CMakeFiles/Test_static.dir/TestDemo.c.o CMakeFiles/Test_static.dir/TestValidate.c.o  -o Test_static ../RingDecomposerLib/libRingDecomposerLibStatic.a -lm 

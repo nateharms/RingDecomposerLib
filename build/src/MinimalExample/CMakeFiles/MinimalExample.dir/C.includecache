@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/RingDecomposerLib/RingDecomposerLib.h
+
+/Users/nathan/Code/RingDecomposerLib/src/MinimalExample/MinimalExample.c
+assert.h
+-
+stdio.h
+-
+RingDecomposerLib.h
+/Users/nathan/Code/RingDecomposerLib/src/MinimalExample/RingDecomposerLib.h
+

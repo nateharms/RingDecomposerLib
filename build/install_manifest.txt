@@ -1,0 +1,3 @@
+/usr/local/lib/libRingDecomposerLib.dylib
+/usr/local/lib/libRingDecomposerLibStatic.a
+/usr/local/include/RingDecomposerLib.h
